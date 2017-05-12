@@ -65,7 +65,7 @@ Hotel wise and Room wise details: API should return  Room Name, Facilities, Adul
 # Validations 
 - performed when the control loose the focus, to be confirmed.
 
-#Questions
+# Questions
 - How to work with signed in user?
 
 # Output
