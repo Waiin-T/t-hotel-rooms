@@ -1,8 +1,6 @@
 
 
-# Components to be developed
-1)	Room Details
-2)	Loyalty program details
+# Hotel Room Details Component
 
 
 ### Component Use
@@ -25,7 +23,7 @@ Hotel wise and Room wise details: API should return  Room Name, Facilities, Adul
 
 ```javascript
 
-	var Hotels = {
+			var Hotels = {
 				Hotel 1{
 					Room1{
 						Room Name : '',
@@ -64,7 +62,11 @@ Hotel wise and Room wise details: API should return  Room Name, Facilities, Adul
 		
 ```
 
-- Validations are performed when the control loose the focus, to be confirmed.
+# Validations 
+- performed when the control loose the focus, to be confirmed.
+
+#Questions
 - How to work with signed in user?
 
-- Output: Room wise guest details
+# Output
+-  Hotel wise Room wise guest details
