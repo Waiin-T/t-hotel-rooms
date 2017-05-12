@@ -26,38 +26,38 @@ Hotel wise and Room wise details: API should return  Room Name, Facilities, Adul
 ```javascript
 
 	var Hotels = {
-					Hotel 1{
-							Room1{
-									Room Name : '',
-									Facility : '',
-									Adult Count : '',
-									Child Count : '',
-									Notes{
-											Note1 : '',
-											Note2 : '',
-									}
-									Single{
-											Include heading : '',
-											Fields{
-													Title, FirstName, LastName, EmailID,
-											}
-									}
-									Multiple{
-												First Adult Fields {
-												}
-												Other Guest Fields{
-												}
-									}
-							}	
-							Room2{
+				Hotel 1{
+					Room1{
+						Room Name : '',
+						Facility : '',
+						Adult Count : '',
+						Child Count : '',
+						Notes{
+							Note1 : '',
+							Note2 : '',
+						}
+						Single{
+							Include heading : '',
+							Fields{
+								Title, FirstName, LastName, EmailID,
 							}
-					}					
-					Hotel 2{
-							Room1{
+						}
+						Multiple{
+							First Adult Fields {
 							}
-							Room2{
+							Other Guest Fields{
 							}
+						}
+					}	
+					Room2{
 					}
+				}					
+				Hotel 2{
+					Room1{
+					}
+					Room2{
+					}
+				}
 
 			}
 
