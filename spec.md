@@ -3,7 +3,7 @@
 # Hotel Room Details Component
 
 
-### Component Use
+## Component Use
 
 ``` html
 
@@ -19,7 +19,7 @@
 ```
 Hotel wise and Room wise details: API should return  Room Name, Facilities, Adult and child count, special notes (shown in green), Single / All occupant’s details and relate input fields needed.
 
-### Input Option to Component
+## Input Option to Component
 
 ```javascript
 
@@ -62,11 +62,11 @@ Hotel wise and Room wise details: API should return  Room Name, Facilities, Adul
 		
 ```
 
-# Validations 
+### Validations 
 - performed when the control loose the focus, to be confirmed.
 
-# Questions
+### Questions
 - How to work with signed in user?
 
-# Output
+### Output
 -  Hotel wise Room wise guest details
